@@ -6,5 +6,5 @@ Simple and clean slider for your website, created with HTML, CSS, and JS. Enjoy 
 </p>
 
 <p align="center">
-<img alt="Views" title="Views" src="https://skillicons.dev/icons?i=js,html,css"/>
+<img alt="Views" title="Views" src="https://github.com/GylanSalih/Slider-Template-Website/blob/main/assets/img/Github_showcasee/Showcase.png"/>
 </p>
