@@ -1,4 +1,4 @@
-# Slider-Template
+# Slider-Template Free Template for your Website
 Simple and clean slider for your website, created with HTML, CSS, and JS. Enjoy using it! #OpenSource 
 
 <p align="center">
